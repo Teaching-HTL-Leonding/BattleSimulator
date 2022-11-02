@@ -6,8 +6,8 @@ Eine Gruppe begeisterter Fans von Rollenspielen (*Role Playing Games*, kurz *RPG
 
 Ihr Simulator muss die folgenden Charakterrollen unterstützen:
 
-| Rollenname | Bild | Beschreibung |
-| ---------- | ---- | ------------ ||
+| Rollenname       | Bild                                          | Beschreibung                                                   |
+| ---------------- | --------------------------------------------- | -------------------------------------------------------------- |
 | 🏴‍☠️ Pirat         | <img src="Pirate.png" width="50px" />         | Furchtloser Kämpfer mit guter Stärke und Rüstung               |
 | 🪨 Steinkauer     | <img src="stone-chewer.png" width="50px" />   | Langsam, aber sehr stark und unempfindlich gegen Angriffe      |
 | 👻 Geisterkrieger | <img src="ghost-warrior.png" width="50px" />  | Schneller Krieger, schwer zu überwinden                        |
